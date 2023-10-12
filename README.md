@@ -1,7 +1,8 @@
 # RandomColor
 Coded in: JS, CSS, HTML
 
-An exercise in Event Handling and API calls. 
+What it does?:
+* An exercise in Event Handling and API calls. 
 
 Simple web page where the user will click a button, and display a random color with properties: rgb, hex, name.
 
